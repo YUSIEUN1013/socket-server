@@ -56,7 +56,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>io.home.test.Test</mainClass>
+                        <mainClass>com.example.demotest.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
